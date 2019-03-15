@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		40FC0709223C245C00B04C8D /* TestiOSApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestiOSApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		40FC0709223C245C00B04C8D /* Test iOS App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Test iOS App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		40FC070C223C245C00B04C8D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		40FC070D223C245C00B04C8D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		40FC070F223C245C00B04C8D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		40FC070A223C245C00B04C8D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				40FC0709223C245C00B04C8D /* TestiOSApp.app */,
+				40FC0709223C245C00B04C8D /* Test iOS App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -74,9 +74,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		40FC0708223C245C00B04C8D /* TestiOSApp */ = {
+		40FC0708223C245C00B04C8D /* Test iOS App */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 40FC071F223C245D00B04C8D /* Build configuration list for PBXNativeTarget "TestiOSApp" */;
+			buildConfigurationList = 40FC071F223C245D00B04C8D /* Build configuration list for PBXNativeTarget "Test iOS App" */;
 			buildPhases = (
 				40FC0705223C245C00B04C8D /* Sources */,
 				40FC0706223C245C00B04C8D /* Frameworks */,
@@ -86,9 +86,9 @@
 			);
 			dependencies = (
 			);
-			name = TestiOSApp;
+			name = "Test iOS App";
 			productName = TestiOSApp;
-			productReference = 40FC0709223C245C00B04C8D /* TestiOSApp.app */;
+			productReference = 40FC0709223C245C00B04C8D /* Test iOS App.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				40FC0708223C245C00B04C8D /* TestiOSApp */,
+				40FC0708223C245C00B04C8D /* Test iOS App */,
 			);
 		};
 /* End PBXProject section */
@@ -330,7 +330,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		40FC071F223C245D00B04C8D /* Build configuration list for PBXNativeTarget "TestiOSApp" */ = {
+		40FC071F223C245D00B04C8D /* Build configuration list for PBXNativeTarget "Test iOS App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				40FC0720223C245D00B04C8D /* Debug */,
